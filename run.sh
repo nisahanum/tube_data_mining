@@ -1,10 +1,10 @@
 #!/bin/bash
 
-echo "🚀 Menjalankan pipeline Data Mining..."
+echo " Menjalankan pipeline Data Mining..."
 
 # Optional: Cek dan install requirements
 if [ -f requirements.txt ]; then
-    echo "📦 Menginstall dependensi dari requirements.txt..."
+    echo " Menginstall dependensi dari requirements.txt..."
     pip install -r requirements.txt
 fi
 
