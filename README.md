@@ -1,6 +1,6 @@
 # 📊 Skeleton Proyek Data Mining
 
-Repositori ini berisi kerangka kerja (skeleton) proyek data mining yang terstruktur dan modular, cocok untuk digunakan dalam tugas akhir, kompetisi, maupun riset.
+Repositori ini berisi kerangka kerja (skeleton) proyek data mining yang terstruktur dan modular.
 
 ---
 
