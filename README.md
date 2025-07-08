@@ -73,7 +73,7 @@ src/main_notebook.ipynb
 
 - Semua path diasumsikan relatif dari root project
 - Tambahkan file data kamu ke dalam `data/raw/`
-- Hasil preprocessing disimpan di `data/processed/` (bila digunakan)
+- Hasil preprocessing disimpan di `data/processed/` 
 - Pastikan target label diberi nama kolom `target` (atau sesuaikan di script)
 
 ---
