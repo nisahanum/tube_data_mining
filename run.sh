@@ -9,5 +9,5 @@ if [ -f requirements.txt ]; then
 fi
 
 # Jalankan pipeline utama
-echo "🔧 Menjalankan src/main.py..."
+echo " Menjalankan src/main.py..."
 python3 src/main.py
