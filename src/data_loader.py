@@ -42,7 +42,7 @@ def preview_data(df, rows=5):
     """
     print(df.head(rows))
 
-# Contoh penggunaan (hapus saat produksi):
+# Contoh pemanggilan (hapus saat produksi):
 if __name__ == "__main__":
     try:
         df = load_csv("your_dataset.csv")  # ganti nama file sesuai kebutuhan
